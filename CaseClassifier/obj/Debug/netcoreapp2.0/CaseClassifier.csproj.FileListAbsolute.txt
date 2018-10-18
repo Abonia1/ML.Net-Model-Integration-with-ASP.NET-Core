@@ -1,0 +1,11 @@
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\bin\Debug\netcoreapp2.0\CaseClassifier.deps.json
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\bin\Debug\netcoreapp2.0\CaseClassifier.runtimeconfig.json
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\bin\Debug\netcoreapp2.0\CaseClassifier.runtimeconfig.dev.json
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\bin\Debug\netcoreapp2.0\CaseClassifier.dll
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\bin\Debug\netcoreapp2.0\CaseClassifier.pdb
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.csprojResolveAssemblyReference.cache
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.csproj.CoreCompileInputs.cache
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.AssemblyInfoInputs.cache
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.AssemblyInfo.cs
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.dll
+C:\Users\asojasingarayar\Desktop\ML POC\CaseClassifier\CaseClassifier\obj\Debug\netcoreapp2.0\CaseClassifier.pdb
